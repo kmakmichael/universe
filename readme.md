@@ -28,3 +28,5 @@ A compass in the center of the starmap points towards the origin, which is place
 ## Links
 [Sloan Digital Sky Survey](https://www.sdss.org/)
 
+## Notes
+- Created on Unity ver. 2020.3.18f1
